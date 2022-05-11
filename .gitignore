@@ -1,2 +1,4 @@
 Resources/
 .ipynb_checkpoints/
+config.py
+__pycache__/
