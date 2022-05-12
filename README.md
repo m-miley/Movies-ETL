@@ -28,3 +28,4 @@ This project travels through the data extract, transform, and load pipeline know
 
 ## Conclusion
 
+A successful completion of the ETL process has resulted in usable movie data from multiple sources and is ready for analysis.
