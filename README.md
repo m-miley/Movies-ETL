@@ -12,7 +12,7 @@ Resources:
 
 ## Overview
 
-This project travels through the data extract, transform, and load pipeline known as ETL.  We received web-scraped wikipedia data for a list of movies in JSON format and movie database csv files.  Each file is loaded into a jupyter notebook, then code written and executed to clean, transform, and merge the data into a usable format.  Lastly, the clean data is loaded into a postgreSQL database using a connection engine and to_sql() method for use in pgadmin 4.  In another jupyter notebook file, we refactor the code so the cleaning and loading can be performed daily and automatically as we receive new data for new insights.  
+This project travels through the data extract, transform, and load pipeline known as ETL.  We received web-scraped wikipedia data for a list of movies in JSON format and movie database csv files.  Each file is loaded into a jupyter notebook, then code written and executed to clean, transform, and merge the data into a usable format.  Lastly, the clean data is loaded into a postgreSQL database using a connection engine and to_sql() method for use in pgadmin 4.  In other jupyter notebook files, code is refactored so that the cleaning and loading can be performed daily and automatically as new data is received.
 
 ## Repository Contents
 
