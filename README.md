@@ -16,15 +16,15 @@ This project travels through the data extract, transform, and load pipeline know
 
 ## Repository Contents
 
--wiki_movies.ipynb- - performs entire ETL process start to finish.  First Draft.
+--wiki_movies.ipynb-- - performs entire ETL process start to finish.  First Draft.
 
--ETL_function_test.ipynb- - tests a function to load files and create Pandas DataFrames
+--ETL_function_test.ipynb-- - tests a function to load files and create Pandas DataFrames
 
--ETL_clean_wiki_movies.ipynb- - refactored wiki_movies.ipynb code to write functions automating and transforming wikipedia data
+--ETL_clean_wiki_movies.ipynb-- - refactored wiki_movies.ipynb code to write functions automating and transforming wikipedia data
 
--ETL_clean_kaggle_data.ipynb- - refactored wiki_movies.ipynb code to write functions automating and transforming kaggle data then merging wikipedia dataframe
+--ETL_clean_kaggle_data.ipynb-- - refactored wiki_movies.ipynb code to write functions automating and transforming kaggle data then merging wikipedia dataframe
 
--ETL_create_database.ipynb- - performs all of the above operations (with the exception of returning dataframes) and loads data to SQL database
+--ETL_create_database.ipynb-- - performs all of the above operations (with the exception of returning dataframes) and loads data to SQL database
 
 ## Conclusion
 
