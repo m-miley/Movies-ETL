@@ -26,6 +26,13 @@ This project travels through the data extract, transform, and load pipeline know
 
 **ETL_create_database.ipynb** - performs all of the above operations (with the exception of returning dataframes) and loads data to SQL database
 
+![Screen Shot 2022-05-13 at 2 39 56 PM](https://user-images.githubusercontent.com/100544761/168378434-aaba82ad-51b8-4827-b8a4-2fc68eb71475.png)
+
+
 ## Conclusion
 
 A successful completion of the ETL process has resulted in usable movie data from multiple sources and is ready for analysis.
+
+### Contact
+
+Email:  mrmileyy@gmail.com
